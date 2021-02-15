@@ -1,0 +1,7 @@
+INSERT INTO book (title) VALUES ('To Kill a Mockingbird')
+INSERT INTO book (title) VALUES ('The Great Gatsby')
+INSERT INTO book (title) VALUES ('Ulysses')
+INSERT INTO book (title) VALUES ('Moby Dick')
+INSERT INTO book (title) VALUES ('Hamlet')
+INSERT INTO book (title) VALUES ('Wuthering Heights')
+INSERT INTO book (title) VALUES ('Alices Adventures In Wonderland')
